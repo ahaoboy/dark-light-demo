@@ -1,0 +1,28 @@
+<svg class="theme-icon" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .dark-image {
+    display: none;
+    }
+
+    @media (prefers-color-scheme: light) {
+    .light-image {
+    display: block;
+    }
+    .dark-image {
+    display: none;
+    }
+    }
+
+    @media (prefers-color-scheme: dark) {
+    .light-image {
+    display: none;
+    }
+    .dark-image {
+    display: block;
+    }
+    }
+  </style>
+
+  <image class="light-image" href="hyperfine.dark.png" />
+  <image class="dark-image" href="hyperfine.light.png" />
+</svg>
