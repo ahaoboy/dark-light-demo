@@ -23,6 +23,6 @@
     }
   </style>
 
-  <image class="light-image" href="hyperfine.dark.png" />
-  <image class="dark-image" href="hyperfine.light.png" />
+  <image class="light-image" href="https://github.com/ahaoboy/dark-light-demo/blob/main/hyperfine.light.png?raw=true" />
+  <image class="dark-image" href="https://github.com/ahaoboy/dark-light-demo/blob/main/hyperfine.dark.png?raw=true" />
 </svg>
