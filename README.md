@@ -7,6 +7,6 @@
 ## hyperfine
 
 <div align="center">
-  <img src="hyperfine.css.svg">
+  <img src="hyperfine.svg">
 </div>
 
